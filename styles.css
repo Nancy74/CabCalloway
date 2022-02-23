@@ -1,1 +1,68 @@
 /* Copy and paste your CSS from CodePen into here */
+#title,
+h3 {
+  background: #f3a929;
+}
+
+#main {
+  max-width: 1800px;
+  max-height: 100%;
+  background: #fbf5df;
+  padding: 20px;
+}
+
+h1,
+h2,
+h3,
+h5,
+p,
+figcaption {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+.subHead {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-bottom: 15px;
+}
+#tribute-info {
+  margin: 0 auto;
+}
+
+#tribute-info > ol li {
+  padding: 1% 20%;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.2em;
+}
+
+.center {
+  text-align: left;
+  list-style-position: inside;
+}
+
+#videoSection {
+  padding-top: 10px;
+}
+#videoSection p {
+  font-size: 1.1rem;
+  font-style: italic;
+}
+
+h5 {
+  font-size: 1.1rem;
+}
